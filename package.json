@@ -1,0 +1,33 @@
+{
+  "name": "super-firebase",
+  "version": "0.1.0",
+  "description": "Set of features and tools that improves development experience and productivity using firebase",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/neilor/super-firebase.git"
+  },
+  "keywords": [
+    "firebase",
+    "firebase-tools",
+    "firebase",
+    "query",
+    "firebase",
+    "indexes",
+    "firebase",
+    "cli",
+    "firebase",
+    "generators",
+    "firebase",
+    "typings"
+  ],
+  "author": "Neilor Caldeira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/neilor/super-firebase/issues"
+  },
+  "homepage": "https://github.com/neilor/super-firebase#readme"
+}
